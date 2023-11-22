@@ -35,3 +35,9 @@ Raul do Carmo Henriques
 ![image](https://github.com/marvinwanzuita/projeto-integrador-sistema-orientado-objetos/assets/66476979/14965e17-9fa5-490a-b244-dbb4cce9805e)
 ## DIAGRAMA DE CLASSE
 ![image](https://github.com/marvinwanzuita/projeto-integrador-sistema-orientado-objetos/assets/66476979/187fd012-3840-46de-af32-cb538cbc0db0)
+## PROTÓTIPOS DE INTERFACE
+![image](https://github.com/marvinwanzuita/projeto-integrador-sistema-orientado-objetos/assets/66476979/e68e471e-e2c3-49b5-b440-22a54955a5ed)
+![image](https://github.com/marvinwanzuita/projeto-integrador-sistema-orientado-objetos/assets/66476979/8793754c-29ae-45c0-9e33-f77d1aa67d4e)
+![image](https://github.com/marvinwanzuita/projeto-integrador-sistema-orientado-objetos/assets/66476979/97755029-ccdc-4ad0-b911-644d10e39d35)
+![image](https://github.com/marvinwanzuita/projeto-integrador-sistema-orientado-objetos/assets/66476979/9ff7ccec-8926-44af-810a-32310b8491aa)
+
