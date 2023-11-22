@@ -1,4 +1,4 @@
-# DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
+# PROJETO INTEGRADOR - DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
 <b>Disciplina:</b><br>
 Projeto Integrador<br>
 <b>Alunos:</b><br>
@@ -9,7 +9,10 @@ Nicoly da Silva Oliveira<br>
 Pablo Silva de Jesus Gomes<br>
 Patrick Loyola Dantas<br>
 Rafael Silva dos Santos<br>
-Raul do Carmo Henriques
+Raul do Carmo Henriques<br>
+## COLABORADORES GITHUB
+![image](https://github.com/marvinwanzuita/projeto-integrador-sistema-orientado-objetos/assets/66476979/9a67a362-6e0d-4621-aa8a-8fb4a0fa3701)
+
 ## DIAGRAMA DE CASOS DE USO
 ![image](https://github.com/marvinwanzuita/projeto-integrador-sistema-orientado-objetos/assets/66476979/7f62abfc-2557-4ac9-81ec-ffc8a1bb05d0)
 ## DESCRIÇÃO CASOS DE USO
